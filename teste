@@ -1,0 +1,22 @@
+#EXTM3U 
+
+#PLAYLISTV: pltv-logo="https://i97.servimg.com/u/f97/19/82/45/70/fundo_13.png" pltv-name="KeltecMP IPTV" pltv-description="FILMES, SERIES, DESENHOS E ANIMES" pltv-cover="https://i62.servimg.com/u/f62/19/82/45/70/heroes11.jpg" pltv-author="EZEQUIEL" pltv-site="http://keltecmp-iptv.directorioforuns.com/h122-IPTV" pltv-email="" pltv-phone="(11)967061676"
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/icones-gratis/atualizacao_318-33117.jpg" group-title="UPDATE:03/01/19", UPDATE:03/01/19
+https://www.youtube.com/watch?v=vQ1Vb_biXLY
+
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/19/82/45/70/fundo_13.png" group-title="INOVAÇÃO", MELHORES CANAIS IPTV
+http://bit.ly/2MFiBCH
+
+#EXTINF:-1 tvg-logo="https://i97.servimg.com/u/f97/19/82/45/70/fundo_13.png" group-title="MELHOR IPTV 2019", O MELHOR IPTV PAGO CLIQUE!
+https://scontent.fcgh5-1.fna.fbcdn.net/v/t66.18014-6/10000000_1884862258234186_8423188201282323758_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeF53uF61sSis0o_8cu_uMO6qNXPcTSBAby3qUkisl7ulRbvhMcnmK94BLTeY3px_tKWdfO8eCF8cImdqPyFBgKMnvBVR6NLqlPWkz1gCgq47Q&_nc_ht=scontent.fcgh5-1.fna&oh=d13636ae15f47fb9eff5ee463edebc47&oe=5C97ED83
+
+################
+
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/maxres11.jpg" group-title="FAÇA SUA DOAÇÃO",picpay.me/keltecmp.iptv
+http://bit.ly/picpay-keltecmp
+
+
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/pag_cy10.png" group-title="FAÇA SUA DOAÇÃO",http://bit.ly/keltecmp-doações
+http://bit.ly/pagseguro-tuto
